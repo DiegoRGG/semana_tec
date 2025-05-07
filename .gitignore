@@ -1,0 +1,4 @@
+# Ignora entornos virtuales
+tensorflow-2.0/
+venv/
+.venv/
